@@ -2,6 +2,7 @@
 #Follow these 2 steps to set up your site.
 
 #Step 1: give your study group a name and a short description,
+user: LU Firefox Club
 #and choose a language from the options in the _data directory:
 title: Our Study Group
 description: "A study group."
